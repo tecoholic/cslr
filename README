@@ -1,0 +1,19 @@
+------------------------------------------------------------------------
+TITLE: REAL TIME CUSTOMER SIDE LOAD REGULATION
+Author: P.Arunmozhi
+Contact: aruntheguy@gmail.com
+Details: Final year project done at College by author
+------------------------------------------------------------------------
+
+What the repo contains?
+-----------------------
+This repo contains the code that was written for the project and the 
+circuit diagram of the project. It consist of two parts one is the AVR
+based device part written in "c" on WinAVR and the second is the 
+PC based serial communication form written in VisualBasic on Visual 
+Studio 2008 obtained as a part of free distribution for student use by
+Microsoft.
+
+The "C" files themselves are commented and inline documented, while the 
+VB files lack documentation but can be easily understood by anyone 
+taking up VB.   
